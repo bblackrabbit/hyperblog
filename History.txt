@@ -1,6 +1,5 @@
 Esta es la historia de Freddy Morales
 
-Freddy Morales tiene 29 años y nació en Colombia.
-Es desarrollador backend en Python y Django.
+Freddy Morales tiene 29 años y nació en Colombia
 
-Hoy hablaremos de su vida y sus hobbies
+Mañana nos enfocaremos en su vida laboral
